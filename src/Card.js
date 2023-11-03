@@ -1,6 +1,7 @@
 function Card() {
     return (
       <div className="Card">
+        <h1>Card components</h1>
         <div class="container text-center">
             <div class="row">
                 <div class="col">
